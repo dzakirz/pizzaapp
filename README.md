@@ -1,9 +1,5 @@
-# Getting Started with Create React App
+# Aplikasi pemesanan Pizza dengan menggunakan framer motion
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Demo Aplikasi](https://toko-pizza.herokuapp.com/).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
+## Aplikasi ini dibuat hanya pembelajaran framer-motion
